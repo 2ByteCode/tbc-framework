@@ -1,0 +1,10 @@
+{
+	"name": "2bytecode/tbc-framework",
+	"description": "A general-purpose library for plugin development.",
+	"autoload": {
+	  "psr-4": {
+		"TBC_Framework\\": "core/"
+	  }
+	}
+  }
+  
